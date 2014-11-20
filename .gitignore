@@ -21,3 +21,5 @@
 *.exe
 *.out
 *.app
+#backup file
+*.c~
